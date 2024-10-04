@@ -36,8 +36,7 @@ module.exports = {
         const embed = new EmbedBuilder()
             .setColor('#b300ff')
             .setAuthor({
-              name: 'Support Server',
-              iconURL: 'https://cdn.discordapp.com/attachments/1272103065721241661/1291742153139159072/image.jpg?ex=67013420&is=66ffe2a0&hm=87475cf0ff12a8f3da9d71a481d1fec69724c3c12cbf412313035f1c3c401fdc&', 
+              name: 'Support Server', 
               url: 'https://discord.gg/xQF9f9yUEM'
           })
             .setDescription(`➡️ **Join our Discord server for support and updates:**\n- Discord - ${supportServerLink}\n\n➡️ **Follow us on:**\n- GitHub - ${githubLink}\n- Replit - ${replitLink}\n- YouTube - ${youtubeLink}`)
