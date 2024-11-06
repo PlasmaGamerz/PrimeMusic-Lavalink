@@ -29,7 +29,7 @@ module.exports = {
   run: async (client, interaction) => {
     try {
 
-      const supportServerLink = "https://discord.gg/e7sGErHDy7";
+      const supportServerLink = "https://discord.gg/VktvS6jxga";
       const githubLink = "https://github.com/PlasmaGamerz";
       const replitLink = "https://replit.com/@Plasma_Gamerz";
       const youtubeLink = "https://youtube.com/@plasma_gamerz?si=Tx-cfqXLLu94THgG";
